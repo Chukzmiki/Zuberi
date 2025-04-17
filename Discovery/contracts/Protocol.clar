@@ -1,4 +1,4 @@
-;; Crypto Signal Discovery Protocol - Version 2
+;; Crypto Signal Discovery Protocol 
 ;; Enhanced implementation with security controls and more features
 
 ;; Constants
